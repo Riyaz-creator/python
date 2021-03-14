@@ -4,7 +4,7 @@ nterms = int(input("How many terms? "))
 # first two terms
 n1, n2 = 0, 1
 count = 0
-
+# new
 # check if the number of terms is valid
 if nterms <= 0:
    print("Please enter a positive integer")
